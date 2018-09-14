@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Age Calculation</string>
+    <string name="textView2">Year</string>
+    <string name="textView3">Month</string>
+    <string name="textView4">Day</string>
+    <string name="editText2"></string>
+    <string name="editText3"></string>
+    <string name="editText4"></string>
+    <string name="textView">Enter Your Brith Day</string>
+    <string name="textView5">Result Up</string>
+    <string name="button">Calculate</string>
+    <string name="textView6">Press Calculate</string>
+    <string name="textView7">Year_left </string>
+    <string name="textView8">Month_left </string>
+    <string name="textView9">day_left </string>
+    <string name="textView10">Year </string>
+    <string name="textView11">Month </string>
+    <string name="textView12">Day </string>
+
+</resources>
